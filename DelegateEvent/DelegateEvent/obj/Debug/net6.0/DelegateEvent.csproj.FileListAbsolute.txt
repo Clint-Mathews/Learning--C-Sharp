@@ -1,0 +1,15 @@
+D:\C#Learning\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.exe
+D:\C#Learning\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.deps.json
+D:\C#Learning\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.runtimeconfig.json
+D:\C#Learning\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.dll
+D:\C#Learning\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.pdb
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.csproj.AssemblyReference.cache
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.AssemblyInfoInputs.cache
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.AssemblyInfo.cs
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.csproj.CoreCompileInputs.cache
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.dll
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\refint\DelegateEvent.dll
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.pdb
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.genruntimeconfig.cache
+D:\C#Learning\DelegateEvent\DelegateEvent\obj\Debug\net6.0\ref\DelegateEvent.dll
