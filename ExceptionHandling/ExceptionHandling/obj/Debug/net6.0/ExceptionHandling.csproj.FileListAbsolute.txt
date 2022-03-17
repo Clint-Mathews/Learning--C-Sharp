@@ -1,0 +1,15 @@
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\C#Learning\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+D:\C#Learning\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+D:\C#Learning\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+D:\C#Learning\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+D:\C#Learning\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+D:\C#Learning\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll
